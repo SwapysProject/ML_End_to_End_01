@@ -1,0 +1,8 @@
+Metadata-Version: 2.1
+Name: ML-End-to-End
+Version: 0.0.1
+Author: Swapnil
+Author-email: swapnilsutar1618@gmail.com
+Requires-Dist: numpy
+Requires-Dist: pandas
+Requires-Dist: seaborn
